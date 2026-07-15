@@ -1,10 +1,6 @@
 # 📘 Special Quasirandom Structures (SQS)
 
-This repository contains comprehensive notes on **Statistical Thermodynamics**, **Boltzmann Entropy**, and the **Special Quasirandom Structure (SQS)** method used to model random solid solutions in atomistic simulations.
 
-The notes are written from first principles with detailed explanations, diagrams, derivations, and practical workflows using **ATAT (Alloy Theoretic Automated Toolkit)**.
-
-## Special Quasirandom Structures (SQS)
 
 - Why SQS is needed
 - Random Solid Solutions
