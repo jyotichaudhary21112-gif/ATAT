@@ -1,4 +1,4 @@
-# 📘 Statistical Thermodynamics & Special Quasirandom Structures (SQS)
+# 📘 Special Quasirandom Structures (SQS)
 
 This repository contains comprehensive notes on **Statistical Thermodynamics**, **Boltzmann Entropy**, and the **Special Quasirandom Structure (SQS)** method used to model random solid solutions in atomistic simulations.
 
